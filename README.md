@@ -25,7 +25,6 @@
 
 ## 📂 Projects
 - 🚆 ATM System in C (Login + PIN Authentication)
-- 🧮 Calculator in C
 - 🔐 Username & Password Validation System
 
 ---
