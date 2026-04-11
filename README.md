@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Piyush
 
-💻 C Programmer | Beginner Developer  
+💻 C Programmer | Beginner Developer | Btech Student
 🚀 Learning Programming & Building Projects  
 📍 Roha, Maharashtra, India  
 
@@ -10,7 +10,7 @@
 - 💻 Learning C programming step by step  
 - 🔥 Interested in coding and software development  
 - 🎯 Goal: Become a skilled software engineer  
-- 🚆 Preparing for technical career growth  
+- 👨‍💻 Preparing for technical career growth  
 
 ---
 
@@ -24,7 +24,7 @@
 ---
 
 ## 📂 Projects
-- 🚆 ATM System in C (Login + PIN Authentication)
+- 🏧 ATM System in C (Login + PIN Authentication)
 - 🔐 Username & Password Validation System
 
 ---
